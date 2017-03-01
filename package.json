@@ -1,0 +1,31 @@
+{
+  "name": "browserify-require-wrapper",
+  "version": "0.0.1",
+  "description": "Replaces default module context with a custom one.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vintikzzz/browserify-window-context.git"
+  },
+  "keywords": [
+    "browserify",
+    "browserify-transform",
+    "shim",
+    "global",
+    "globals",
+    "transform",
+    "window",
+    "commonjs"
+  ],
+  "author": {
+    "name": "Glenn R. Martin",
+    "email": "glenn@intrepid.io"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "through": "^2.3.8"
+  }
+}
